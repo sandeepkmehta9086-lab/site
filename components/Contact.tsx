@@ -30,7 +30,7 @@ export function Contact() {
       <div className="relative mx-auto max-w-5xl px-6 lg:px-10 text-center">
         <Reveal>
           <p className="font-mono text-xs tracking-[0.35em] uppercase text-neon mb-6">
-            {"//"} 04 — Contact
+            {"//"} 05 — Contact
           </p>
           <h2 className="font-display text-5xl md:text-7xl font-bold tracking-tight text-white">
             Let&apos;s build the

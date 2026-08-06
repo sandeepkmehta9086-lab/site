@@ -122,6 +122,17 @@ body {
   animation-play-state: paused;
 }
 
+/* ---------- horizontal rail ---------- */
+
+.no-scrollbar {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
 /* ---------- misc animation ---------- */
 
 @keyframes pulse-dot {

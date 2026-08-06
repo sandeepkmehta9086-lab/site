@@ -248,3 +248,21 @@ export const stats = [
   { value: 2, suffix: "", label: "Teams Built from Zero" },
   { value: 6, suffix: "", label: "Countries Served" },
 ];
+
+/**
+ * LinkedIn posts to embed in the feed section.
+ *
+ * To add a post: open the post on LinkedIn → click the "..." menu →
+ * "Embed this post" → copy the URN from the iframe src, i.e. the part
+ * that looks like "urn:li:share:7123456789012345678" or
+ * "urn:li:ugcPost:7123456789012345678" — and paste it below as a string.
+ * Posts must be public to render for visitors.
+ */
+export const linkedinPosts: string[] = [
+  // "urn:li:share:7123456789012345678",
+  "urn:li:share:7490040684536774656",
+  "urn:li:share:7488783121925062656",
+  "urn:li:share:7487542127409823744",
+  "urn:li:ugcPost:7481414111596105728",
+  "urn:li:ugcPost:7478444647460171776"
+];
