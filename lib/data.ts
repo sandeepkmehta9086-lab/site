@@ -203,15 +203,15 @@ export const skills = [
 export const certifications = [
   {
     name: "Google Cloud Platform Fundamentals: Core Infrastructure",
-    issuer: "Google Cloud",
+    issuer: "Coursera",
   },
   {
     name: "Reliable Google Cloud Infrastructure: Design and Process",
-    issuer: "Google Cloud",
+    issuer: "Coursera",
   },
   {
     name: "Essential Cloud Infrastructure: Core Services",
-    issuer: "Google Cloud",
+    issuer: "Coursera",
   },
   {
     name: "Foundations of Programming: Databases",
