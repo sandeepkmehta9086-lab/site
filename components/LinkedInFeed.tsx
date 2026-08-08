@@ -36,9 +36,9 @@ export function LinkedInFeed() {
             label="LinkedIn Feed"
             title={
               <>
-                Signals.
+                Feeds.
                 <br />
-                <span className="text-gradient">From the network.</span>
+                <span className="text-gradient">From the social.</span>
               </>
             }
           />
